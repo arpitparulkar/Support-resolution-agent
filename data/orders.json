@@ -1,0 +1,79 @@
+[
+  {
+    "order_id": "ORD123",
+    "customer": "Rahul",
+    "product": "Headphones",
+    "status": "Shipped",
+    "order_date": "2026-10-12",
+    "expected_delivery": "2026-10-20",
+    "delivered_date": null,
+    "amount": 89.99,
+    "refund_status": "Not requested"
+  },
+  {
+    "order_id": "ORD124",
+    "customer": "Priya",
+    "product": "Keyboard",
+    "status": "Delivered",
+    "order_date": "2026-10-01",
+    "expected_delivery": "2026-10-10",
+    "delivered_date": "2026-10-11",
+    "amount": 129.99,
+    "refund_status": "Not requested"
+  },
+  {
+    "order_id": "ORD125",
+    "customer": "Aisha",
+    "product": "Wireless Mouse",
+    "status": "Delivered",
+    "order_date": "2026-09-20",
+    "expected_delivery": "2026-09-25",
+    "delivered_date": "2026-09-24",
+    "amount": 34.50,
+    "refund_status": "Refunded"
+  },
+  {
+    "order_id": "ORD126",
+    "customer": "Dev",
+    "product": "USB-C Hub",
+    "status": "Cancelled",
+    "order_date": "2026-10-08",
+    "expected_delivery": "2026-10-15",
+    "delivered_date": null,
+    "amount": 49.00,
+    "refund_status": "Not requested"
+  },
+  {
+    "order_id": "ORD127",
+    "customer": "Elena",
+    "product": "Wi-Fi Router",
+    "status": "Shipped",
+    "order_date": "2026-10-01",
+    "expected_delivery": "2026-10-12",
+    "delivered_date": null,
+    "amount": 79.00,
+    "refund_status": "Not requested"
+  },
+  {
+    "order_id": "ORD128",
+    "customer": "Omar",
+    "product": "Office Chair",
+    "status": "Delivered",
+    "order_date": "2026-08-25",
+    "expected_delivery": "2026-09-01",
+    "delivered_date": "2026-09-02",
+    "amount": 219.00,
+    "refund_status": "Not requested"
+  },
+  {
+    "order_id": "ORD129",
+    "customer": "Maya",
+    "product": "Laptop Stand",
+    "status": "Processing",
+    "order_date": "2026-10-15",
+    "expected_delivery": "2026-10-22",
+    "delivered_date": null,
+    "amount": 42.00,
+    "refund_status": "Not requested"
+  }
+]

@@ -1,0 +1,14 @@
+REFUNDS
+Refunds are allowed within 30 days of delivery for damaged or defective items. The customer name must match the order. An order that has already been refunded cannot be refunded again. Refunds are simulated and require a successful confirmation from the payment tool.
+
+CANCELLATIONS
+Orders that have not shipped can be cancelled. The customer name must match the order. Shipped, delivered, and already-cancelled orders cannot be cancelled through self-service.
+
+DELIVERY
+A delivery counts as delayed if it is past the expected delivery date and has not been delivered. Do not describe an order as delayed before its expected delivery date.
+
+PAYMENTS
+Duplicate payment claims always require human review. Create a high-priority support ticket; do not promise a payment reversal.
+
+GENERAL
+Never invent order details, policies, tracking numbers, refund confirmations, or ticket IDs. Escalate issues that cannot be verified or resolved safely.

@@ -1,0 +1,6 @@
+# LangChain 1.x and LangGraph 1.x APIs
+langchain>=1.0.0,<2.0.0
+langchain-groq>=1.0.0,<2.0.0
+langgraph>=1.0.0,<2.0.0
+python-dotenv>=1.0.1,<2.0.0
+pytest>=8.3.0,<9.0.0
